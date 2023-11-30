@@ -38,7 +38,7 @@ st.title('V52 Wind Turbine Data Analysis')
 a1, a2 = st.columns(2)
 
 # put the image on a2
-a2.image(Image.open('images/V52turbine.jpg'))
+a2.image(Image.open('images/v52turbine.jpg'))
 
 with a1:
 
